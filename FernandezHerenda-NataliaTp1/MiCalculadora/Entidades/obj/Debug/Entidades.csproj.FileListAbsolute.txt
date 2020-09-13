@@ -1,0 +1,7 @@
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\natyf\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.dll

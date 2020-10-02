@@ -12,3 +12,10 @@ C:\Users\natyf\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.
 C:\Users\natyf\source\repos\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb
 C:\Users\natyf\source\repos\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll
 C:\Users\natyf\source\repos\MiCalculadora\MiCalculadora\bin\Debug\Entidades.dll.config
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp1\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

@@ -22,9 +22,9 @@ namespace Entidades
         /// <summary>
         /// Constructor por defecto se le asigna 0 y sin parametros.
         /// </summary>
-        public Numero()
+        public Numero() : this(0)
         {
-            this.numero = 0;
+            
         }
         /// <summary>
         /// Constructor. En el asignamos el parametro a this.numero.
@@ -38,7 +38,7 @@ namespace Entidades
         /// Constructor. En el ingresa un string y se valida si es numero o no.
         /// </summary>
         /// <param name="strNumero">String que ingresa por parametro para poder validarlo.</param>
-        public Numero(string strNumero)
+        public Numero(string strNumero) 
         {
             this.numero = ValidarNumero(strNumero);
         }
@@ -47,7 +47,7 @@ namespace Entidades
         /// </summary>
         /// <param name="strNumero">Recibe por parametro un string para poder convertirlo</param>
         /// <returns>Retorna un double cuando corrobora que se puede convertir de string a double</returns>
-        double ValidarNumero(string strNumero)
+         double ValidarNumero(string strNumero)
         {
             double numero;
 

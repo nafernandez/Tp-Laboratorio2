@@ -3,6 +3,7 @@
 ### Trabajo práctico N°1
 
 La aplicación es sobre una calculadora donde se evalúa clases estaticas y como poder desarrollar una pequeña calculadora.
+-----
 
 ### Trabajo práctico N°2
 
@@ -12,6 +13,7 @@ La aplicación se trata sobre un taller y autos. El trabajo consistia en darnos 
 - Abstracción
 - Encapsulamiento
 - Sobrecarga de operadores
+-----
 
 ### Trabajo práctico N°3
 

@@ -17,3 +17,9 @@ C:\Users\natyf\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReferen
 C:\Users\natyf\Desktop\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\natyf\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\natyf\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\bin\Debug\Entidades.dll
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\obj\Debug\Entidades.dll
+C:\Users\natyf\Desktop\Tp-Laboratorio2\FernandezHerenda-NataliaTp2\FernandezHerenda-NataliaTp2\Entidades\obj\Debug\Entidades.pdb

@@ -17,7 +17,7 @@
 
 ##### La aplicación se trata sobre una universidad, los profesores y sus alumnos. Se evalúa lo mismo que el anterior trabajo practico agregando los siguientes temas:
 
-###### -Interfaces
-###### -Archivos
+- Interfaces
+- Archivos
 ###### -Excepciones
 ###### -Test Unitarios

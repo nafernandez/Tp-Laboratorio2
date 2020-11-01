@@ -1,0 +1,9 @@
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\bin\Debug\Excepciones.dll
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Archivos\obj\Debug\Archivos.pdb

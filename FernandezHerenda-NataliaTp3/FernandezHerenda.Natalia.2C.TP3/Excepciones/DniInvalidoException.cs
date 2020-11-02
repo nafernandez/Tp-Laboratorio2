@@ -9,9 +9,13 @@ namespace Excepciones
     public class DniInvalidoException : Exception
     {
         public DniInvalidoException()
-            : base("El DNI no es válido")
+            : this("El DNI no es válido")
         {
+        }
 
+        public DniInvalidoException(string message)
+            : base(message)
+        {
         }
     }
 }

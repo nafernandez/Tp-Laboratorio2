@@ -4,3 +4,9 @@ C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones
 C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
 C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
 C:\Users\natyf\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\natyf\OneDrive\Escritorio\Tp-Laboratorio2\FernandezHerenda-NataliaTp3\FernandezHerenda.Natalia.2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

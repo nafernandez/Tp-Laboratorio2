@@ -13,5 +13,9 @@ namespace Excepciones
         {
 
         }
+        public ArchivosException(string message)
+           : base(message)
+        {
+        }
     }
 }

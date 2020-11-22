@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Entidades.Datos
 {
+    /// <summary>
+    ///  BASE DE DATOS
+    /// </summary>
     public class ConexionABaseDeDatos
     {
         private static SqlConnection conexion;

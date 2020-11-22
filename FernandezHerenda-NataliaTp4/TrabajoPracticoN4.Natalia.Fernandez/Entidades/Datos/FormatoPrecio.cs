@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entidades.Datos
 {
+    /// <summary>
+    /// METODO DE EXTENSION
+    /// </summary>
     public static class FormatoPrecio
     {
         /// <summary>

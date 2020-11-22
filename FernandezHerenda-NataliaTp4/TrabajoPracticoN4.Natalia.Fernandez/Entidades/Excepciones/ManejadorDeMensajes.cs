@@ -7,7 +7,9 @@ using System.Threading.Tasks;
 namespace Entidades.Excepciones
 {
     public class ManejadorDeMensajes
-    {
+    {/// <summary>
+    /// EXCEPCIONES
+    /// </summary>
         private MensajeCronometrado mensaje;
         /// <summary>
         /// Metodo donde se le asigna una excepcion y una duracion a mostrar del mensaje. Se instancia un mensaje cronometrado en el con error.

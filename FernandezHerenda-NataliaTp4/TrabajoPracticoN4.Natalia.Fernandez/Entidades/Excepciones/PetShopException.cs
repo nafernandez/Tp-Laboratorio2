@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Entidades.Excepciones
 {
+    /// <summary>
+    /// EXCEPCIONES
+    /// </summary>
     public class PetShopException : Exception
     {
         public PetShopException(string message, Exception innerException) : base(message, innerException)

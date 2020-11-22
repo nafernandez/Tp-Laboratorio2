@@ -9,6 +9,9 @@ using static Entidades.Datos.EnumeradoBaseDeDatos;
 
 namespace Entidades.Datos
 {
+    /// <summary>
+    /// BASE DE DATOS
+    /// </summary>
       public class ProductosDAO : ConexionABaseDeDatos
        {
             public delegate void ProductoDBDelegate(ComandoBaseDeDatos accion);

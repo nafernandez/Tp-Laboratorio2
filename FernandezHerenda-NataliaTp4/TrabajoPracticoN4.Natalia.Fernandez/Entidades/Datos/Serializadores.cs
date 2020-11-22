@@ -9,6 +9,10 @@ using System.Xml.Serialization;
 
 namespace Entidades.Datos
 {
+    /// <summary>
+    /// SERIALIZACION, GENERICOS
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class Serializadores<T>
         where T : class, new()
     {

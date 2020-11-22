@@ -20,6 +20,9 @@ namespace PetShopForm
         private PetShop petShop;
         private ManejadorDeMensajes manejadorDeMensajes;
         private Producto producto;
+        /// <summary>
+        /// DELEGADO
+        /// </summary>
         delegate void Callback();
         private Thread thread;
         public FormPetShop()

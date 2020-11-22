@@ -14,6 +14,9 @@ namespace Entidades
         private List<Producto> productos;
         private List<Venta> ventas;
         private List<Compra> compras;
+        /// <summary>
+        /// EVENTO
+        /// </summary>
         public event Action ListaDeProductosModificada;
         private static PetShop singleton;
 
@@ -88,7 +91,7 @@ namespace Entidades
         #region Metodos
 
         /// <summary>
-        /// Genera una nueva venta y crea un archivo xml
+        /// Genera una nueva venta y crea un archivo xml. ARCHIVOS
         /// </summary>
         /// <param name="producto">Producto a Vender.</param>
         /// <param name="cantidad">Cantidad solicitada del producto.</param>
@@ -103,7 +106,7 @@ namespace Entidades
             return nuevaVenta;
         }
         /// <summary>
-        /// Genera una nueva venta y crea un archivo xml
+        /// Genera una nueva venta y crea un archivo xml ARCHIVOS
         /// </summary>
         /// <param name="producto"></param>
         /// <param name="cantidad"></param>
@@ -118,6 +121,10 @@ namespace Entidades
 
             return nuevaCompra;
         }
+        /// <summary>
+        /// BASE DE DATOS. actualiza la lista de productos en la base de datos.
+        /// </summary>
+        /// <param name="comando"></param>
         private void ActualizarListaProductos(ComandoBaseDeDatos comando)
         {
             this.Productos = ProductosDAO.SelectAll();

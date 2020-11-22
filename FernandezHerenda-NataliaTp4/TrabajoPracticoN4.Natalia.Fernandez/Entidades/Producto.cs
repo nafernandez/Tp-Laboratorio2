@@ -23,7 +23,7 @@ namespace Entidades
         /// <summary>
         /// Constructor. Inicializa los atributos del producto. 
         /// </summary>
-        /// <param name="codigo">Codigo único (PK) del producto en la base de datos.</param>
+        /// <param name="codigo">Codigo único del producto en la base de datos.</param>
         /// <param name="descripcion">Descripción del producto.</param>
         /// <param name="stock">Stock disponible del producto.</param>
         /// <param name="precio">Precio del producto.</param>
@@ -117,6 +117,5 @@ namespace Entidades
             return sb.ToString();
         }
         #endregion
-
     }
 }

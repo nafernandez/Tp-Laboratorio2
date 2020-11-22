@@ -21,3 +21,17 @@ La aplicación se trata sobre un taller y autos. El trabajo consistia en darnos 
 - Archivos
 - Excepciones
 - Test Unitarios
+
+### Trabajo práctico N°4
+
+La aplicación es un proyecto libre donde decidí crear un pet shop con compras y ventas de productos. Se evalúa los siguientes temas:
+
+- Base de datos
+- Interfaces
+- Genericos
+- Archivos
+- Excepciones
+- Threads o hilos
+- Metodos de extensión
+- Test unitarios
+- Serialización

@@ -1,0 +1,6 @@
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\bin\Debug\Entidades.dll
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\bin\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\obj\Debug\Entidades.dll
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\obj\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

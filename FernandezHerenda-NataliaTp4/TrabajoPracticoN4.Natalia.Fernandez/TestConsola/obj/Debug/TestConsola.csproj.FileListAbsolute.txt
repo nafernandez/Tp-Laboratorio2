@@ -1,0 +1,10 @@
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\bin\Debug\Entidades.dll
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\TestConsola\obj\Debug\TestConsola.pdb

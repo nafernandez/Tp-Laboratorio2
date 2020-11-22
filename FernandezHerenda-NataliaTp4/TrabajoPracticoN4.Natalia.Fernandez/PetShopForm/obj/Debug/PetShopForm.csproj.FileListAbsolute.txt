@@ -1,0 +1,15 @@
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\bin\Debug\PetShopForm.exe.config
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\bin\Debug\PetShopForm.exe
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\bin\Debug\PetShopForm.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\bin\Debug\Entidades.dll
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\bin\Debug\Entidades.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.csprojAssemblyReference.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.FormPetShop.resources
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.Properties.Resources.resources
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.csproj.GenerateResource.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.csproj.CoreCompileInputs.cache
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.csproj.CopyComplete
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.exe
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.pdb
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.AgregarProductosFormulario.resources
+C:\Users\natyf\source\repos\TrabajoPracticoN4.Natalia.Fernandez\PetShopForm\obj\Debug\PetShopForm.FormularioVenta.resources

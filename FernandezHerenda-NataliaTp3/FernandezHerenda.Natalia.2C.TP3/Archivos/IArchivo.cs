@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Archivos
 {
-    public interface IArchivo<T>
+    public interface IArchivo<T> 
     {
         bool Guardar(string archivo, T datos);
 
